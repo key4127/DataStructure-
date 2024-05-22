@@ -1,2 +1,4 @@
-# DataStructure-
+# DataStructure-数据结构
 2024.5.22第一版，包含各种数据结构的C++实现
+希望暑假有时间增加python & java等其它语言的实现
+并将C++部分扩充为一个自己的stl库
